@@ -1,38 +1,30 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Christine Liu's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Christine Liu
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="liu18001@byui.edu">liu18001@byui.edu</a>
+| <a href="https://www.linkedin.com/in/christineyiyiliu/">LinkedIn</a>
+| <a href="https://github.com/LYY970828/christine_liu_resume">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2018-2022`
+__Libertytax Service__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
+- Full academic scholarship with 3.95 GPA
 
 ## Related Experience
 
 ### Internships
 
 `January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+__Liberty Tax Service__, Rexb, WA
 
 - Worked on novel methods for soil sampling to reduce laboratory measurements
 - Used R and Visual Sample Plan to establish new sampling algorithms
