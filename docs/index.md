@@ -15,62 +15,51 @@ title: Christine Liu's Resume
 ## Education
 
 `2018-2022`
-__Libertytax Service__, Rexburg, ID
+__Brigham Young University - Idaho__, Rexburg, ID
 
 - Full academic scholarship with 3.95 GPA
 
 ## Related Experience
 
-### Internships
+### Tax Preparer
 
-`January 2028 - June 2028`
-__Liberty Tax Service__, Rexb, WA
+`January 2021 - April 2021`
+__Liberty Tax Service__, Boise, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Participated in the preparation of over 200 individual tax returns over a four month period
+- Worked one on one with customers to obtain relevant documentation and answer tax related questions 
+- Responsible for establishing rapport with clients to build working relationships and increase retention
+- Reported weekly to manager on status of work deliverables and addressing customer concerns
 
-### Data Science Lead
+### Financial Aid Verification Specialist
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`November 2019 - December 2020`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Worked with a team of students and University professionals to review and audit over 10,000 student federal aid applications each fiscal year
+- Performed research of IRS tax and personal income documentation related to financial aid qualifications to ensure the appropriate amount of financial audit was being awarded to each participant 
+- Maintained meticulous documentation to ensure compliance with University and Federal regulations 
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+### Teaching Assistant 
 
-### Data Science Consulting Team
+`December 2018 - Present`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-`January 2027 - April 2027`
-__Imagine Learning__
+- Taught lessons on a periodic basis to a class size of 15+ students 
+- Worked with students one on one to explain complex Excel VBA and Data Analysis techniques 
+- Assisted in grading homework and tests weekly
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`November 2016 - May 2018`
+__Voluntary Representative__, The Church of Jesus Christ of Latter-Day Saints
 
-
-`2023-2025`
-__Service Missionary__, South Africa
+- Obtained superior communication skills by teaching, contacting, and resolving concerns
+- Supervised daily activities of 8 full time volunteers
+- Counseled with local authorities on how to better increase productivity 
 
 
 
